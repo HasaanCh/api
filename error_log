@@ -1040,3 +1040,9 @@
  in /home/waydsuyb/public_html/webass/api/cron2.php on line 32
 [09-Apr-2021 16:06:09 America/New_York] PHP Warning:  file_get_contents(https://usman-recipes.herokuapp.com/api/products/6070b240fd14ab0016023c92): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
  in /home/waydsuyb/public_html/webass/api/cron2.php on line 32
+[09-Apr-2021 16:06:39 America/New_York] PHP Warning:  file_get_contents(https://usman-recipes.herokuapp.com/api/products/6070b240fd14ab0016023c93): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/waydsuyb/public_html/webass/api/cron2.php on line 32
+[09-Apr-2021 16:07:09 America/New_York] PHP Warning:  file_get_contents(https://usman-recipes.herokuapp.com/api/products/6070b240fd14ab0016023c94): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/waydsuyb/public_html/webass/api/cron2.php on line 32
+[09-Apr-2021 16:07:40 America/New_York] PHP Warning:  file_get_contents(https://usman-recipes.herokuapp.com/api/products/6070b240fd14ab0016023c95): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/waydsuyb/public_html/webass/api/cron2.php on line 32
