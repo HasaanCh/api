@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="custom.js"></script>
+    
+    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="modal.css">
+    <!-- <link rel="stylesheet" href="newcss.less"> -->
+
+</head>
+  <body>
+    <h2>API Wala Kam</h2> 
+    
+    <!-- Modal -->
+<div class="modale" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-header">
+      <h2>Please Enter Record</h2>
+      <a href="#" class="btn-close closemodale" aria-hidden="true">&times;</a>
+    </div>
+    <div class="modal-body">
+      <input type="text" placeholder="Name" class="name-field input">
+      <input type="text" placeholder="Color" class="color-field input">
+      <input type="text" placeholder="Department" class="dep-field input">
+      <input type="text" placeholder="Description" class="desc-field input">
+      <input type="text" placeholder="Price" class="price-field input">
+    <div class="modal-footer">
+  
+
+      <a href="#" class="btn" id="btn_ingresar">Submit</a>
+    </div>
+  </div>
+</div>
+<!-- /Modal -->
+
+  <p><a href="#" class="btn btn-big openmodale">Add Record</a></p>
+
+
+    <div class="main-data">
+        <p class="loading">
+          Loading.....
+        </p>
+    </div>
+  </body>
+</html>

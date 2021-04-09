@@ -1,0 +1,62 @@
+
+/* Inline #1 | https://waydevelopers.tech/webass/api/ */
+
+.main-data {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .record {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .record li {
+    font-size: 17px;
+
+    margin-left: 13px;
+  }
+  
+  .record {
+    margin-bottom: 20px;
+  }
+
+
+.record .id {
+    display: none;
+  }
+  
+  
+/* Inline #1 | https://waydevelopers.tech/webass/api/ */
+
+.button-group {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .button {
+    margin-right: 20px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  /* .del-button {
+    margin-right: 20px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+  } */
+  
+
+/* Inline #1 | https://waydevelopers.tech/webass/api/ */
+
+h2 {
+    display: flex;
+    justify-content: center;
+  }
+  
